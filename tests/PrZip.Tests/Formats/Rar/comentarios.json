@@ -1,0 +1,267 @@
+{
+ "cmt_v5.rar": {
+  "command": "rar a -r -y -os -z<comentario> -ma5 cmt_v5.rar *",
+  "comment": "Causa 1234/2026 - perito: Señal ñandú\r\n",
+  "fileComments": {},
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "6bb002a318f0f0e27c424180c17e3634f115be9f78a9c6ee1c04d90748b97827"
+   },
+   {
+    "name": "acta.txt:oculto",
+    "kind": "AlternateStream",
+    "size": 780
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/foto.jpg",
+    "kind": "File",
+    "sha256": "e96760a87768717bcebcfd25ddc7d46b4dbc95a4b0014def080c08539f7d90d0"
+   },
+   {
+    "name": "datos/foto.jpg:Zone.Identifier",
+    "kind": "AlternateStream",
+    "size": 68
+   }
+  ]
+ },
+ "cmt_v5_hpass.rar": {
+  "command": "rar a -r -y -os -z<comentario> -ma5 -hp<contraseña> cmt_v5_hpass.rar *",
+  "comment": "Causa 1234/2026 - perito: Señal ñandú\r\n",
+  "fileComments": {},
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "6bb002a318f0f0e27c424180c17e3634f115be9f78a9c6ee1c04d90748b97827"
+   },
+   {
+    "name": "acta.txt:oculto",
+    "kind": "AlternateStream",
+    "size": 780
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/foto.jpg",
+    "kind": "File",
+    "sha256": "e96760a87768717bcebcfd25ddc7d46b4dbc95a4b0014def080c08539f7d90d0"
+   },
+   {
+    "name": "datos/foto.jpg:Zone.Identifier",
+    "kind": "AlternateStream",
+    "size": 68
+   }
+  ],
+  "password": "Clave123"
+ },
+ "cmt_v4.rar": {
+  "command": "rar a -r -y -os -z<comentario> -ma4 cmt_v4.rar *",
+  "comment": "Causa 1234/2026 - perito: Señal ñandú\r\n",
+  "fileComments": {},
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "6bb002a318f0f0e27c424180c17e3634f115be9f78a9c6ee1c04d90748b97827"
+   },
+   {
+    "name": "acta.txt:oculto",
+    "kind": "AlternateStream",
+    "size": 780
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/foto.jpg",
+    "kind": "File",
+    "sha256": "e96760a87768717bcebcfd25ddc7d46b4dbc95a4b0014def080c08539f7d90d0"
+   },
+   {
+    "name": "datos/foto.jpg:Zone.Identifier",
+    "kind": "AlternateStream",
+    "size": 68
+   }
+  ]
+ },
+ "cmt_v4_largo.rar": {
+  "command": "rar a -r -y -os -z<comentario> -ma4 cmt_v4_largo.rar *",
+  "comment": "Linea 000 del comentario largo de la causa, para forzar compresion.\r\nLinea 001 del comentario largo de la causa, para forzar compresion.\r\nLinea 002 del comentario largo de la causa, para forzar compresion.\r\nLinea 003 del comentario largo de la causa, para forzar compresion.\r\nLinea 004 del comentario largo de la causa, para forzar compresion.\r\nLinea 005 del comentario largo de la causa, para forzar compresion.\r\nLinea 006 del comentario largo de la causa, para forzar compresion.\r\nLinea 007 del comentario largo de la causa, para forzar compresion.\r\nLinea 008 del comentario largo de la causa, para forzar compresion.\r\nLinea 009 del comentario largo de la causa, para forzar compresion.\r\nLinea 010 del comentario largo de la causa, para forzar compresion.\r\nLinea 011 del comentario largo de la causa, para forzar compresion.\r\nLinea 012 del comentario largo de la causa, para forzar compresion.\r\nLinea 013 del comentario largo de la causa, para forzar compresion.\r\nLinea 014 del comentario largo de la causa, para forzar compresion.\r\nLinea 015 del comentario largo de la causa, para forzar compresion.\r\nLinea 016 del comentario largo de la causa, para forzar compresion.\r\nLinea 017 del comentario largo de la causa, para forzar compresion.\r\nLinea 018 del comentario largo de la causa, para forzar compresion.\r\nLinea 019 del comentario largo de la causa, para forzar compresion.\r\nLinea 020 del comentario largo de la causa, para forzar compresion.\r\nLinea 021 del comentario largo de la causa, para forzar compresion.\r\nLinea 022 del comentario largo de la causa, para forzar compresion.\r\nLinea 023 del comentario largo de la causa, para forzar compresion.\r\nLinea 024 del comentario largo de la causa, para forzar compresion.\r\nLinea 025 del comentario largo de la causa, para forzar compresion.\r\nLinea 026 del comentario largo de la causa, para forzar compresion.\r\nLinea 027 del comentario largo de la causa, para forzar compresion.\r\nLinea 028 del comentario largo de la causa, para forzar compresion.\r\nLinea 029 del comentario largo de la causa, para forzar compresion.\r\nLinea 030 del comentario largo de la causa, para forzar compresion.\r\nLinea 031 del comentario largo de la causa, para forzar compresion.\r\nLinea 032 del comentario largo de la causa, para forzar compresion.\r\nLinea 033 del comentario largo de la causa, para forzar compresion.\r\nLinea 034 del comentario largo de la causa, para forzar compresion.\r\nLinea 035 del comentario largo de la causa, para forzar compresion.\r\nLinea 036 del comentario largo de la causa, para forzar compresion.\r\nLinea 037 del comentario largo de la causa, para forzar compresion.\r\nLinea 038 del comentario largo de la causa, para forzar compresion.\r\nLinea 039 del comentario largo de la causa, para forzar compresion.\r\nLinea 040 del comentario largo de la causa, para forzar compresion.\r\nLinea 041 del comentario largo de la causa, para forzar compresion.\r\nLinea 042 del comentario largo de la causa, para forzar compresion.\r\nLinea 043 del comentario largo de la causa, para forzar compresion.\r\nLinea 044 del comentario largo de la causa, para forzar compresion.\r\nLinea 045 del comentario largo de la causa, para forzar compresion.\r\nLinea 046 del comentario largo de la causa, para forzar compresion.\r\nLinea 047 del comentario largo de la causa, para forzar compresion.\r\nLinea 048 del comentario largo de la causa, para forzar compresion.\r\nLinea 049 del comentario largo de la causa, para forzar compresion.\r\nLinea 050 del comentario largo de la causa, para forzar compresion.\r\nLinea 051 del comentario largo de la causa, para forzar compresion.\r\nLinea 052 del comentario largo de la causa, para forzar compresion.\r\nLinea 053 del comentario largo de la causa, para forzar compresion.\r\nLinea 054 del comentario largo de la causa, para forzar compresion.\r\nLinea 055 del comentario largo de la causa, para forzar compresion.\r\nLinea 056 del comentario largo de la causa, para forzar compresion.\r\nLinea 057 del comentario largo de la causa, para forzar compresion.\r\nLinea 058 del comentario largo de la causa, para forzar compresion.\r\nLinea 059 del comentario largo de la causa, para forzar compresion.\r\n",
+  "fileComments": {},
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "6bb002a318f0f0e27c424180c17e3634f115be9f78a9c6ee1c04d90748b97827"
+   },
+   {
+    "name": "acta.txt:oculto",
+    "kind": "AlternateStream",
+    "size": 780
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/foto.jpg",
+    "kind": "File",
+    "sha256": "e96760a87768717bcebcfd25ddc7d46b4dbc95a4b0014def080c08539f7d90d0"
+   },
+   {
+    "name": "datos/foto.jpg:Zone.Identifier",
+    "kind": "AlternateStream",
+    "size": 68
+   }
+  ]
+ },
+ "cmt_v4_hpass.rar": {
+  "command": "rar a -r -y -os -z<comentario> -ma4 -hp<contraseña> cmt_v4_hpass.rar *",
+  "comment": "Linea 000 del comentario largo de la causa, para forzar compresion.\r\nLinea 001 del comentario largo de la causa, para forzar compresion.\r\nLinea 002 del comentario largo de la causa, para forzar compresion.\r\nLinea 003 del comentario largo de la causa, para forzar compresion.\r\nLinea 004 del comentario largo de la causa, para forzar compresion.\r\nLinea 005 del comentario largo de la causa, para forzar compresion.\r\nLinea 006 del comentario largo de la causa, para forzar compresion.\r\nLinea 007 del comentario largo de la causa, para forzar compresion.\r\nLinea 008 del comentario largo de la causa, para forzar compresion.\r\nLinea 009 del comentario largo de la causa, para forzar compresion.\r\nLinea 010 del comentario largo de la causa, para forzar compresion.\r\nLinea 011 del comentario largo de la causa, para forzar compresion.\r\nLinea 012 del comentario largo de la causa, para forzar compresion.\r\nLinea 013 del comentario largo de la causa, para forzar compresion.\r\nLinea 014 del comentario largo de la causa, para forzar compresion.\r\nLinea 015 del comentario largo de la causa, para forzar compresion.\r\nLinea 016 del comentario largo de la causa, para forzar compresion.\r\nLinea 017 del comentario largo de la causa, para forzar compresion.\r\nLinea 018 del comentario largo de la causa, para forzar compresion.\r\nLinea 019 del comentario largo de la causa, para forzar compresion.\r\nLinea 020 del comentario largo de la causa, para forzar compresion.\r\nLinea 021 del comentario largo de la causa, para forzar compresion.\r\nLinea 022 del comentario largo de la causa, para forzar compresion.\r\nLinea 023 del comentario largo de la causa, para forzar compresion.\r\nLinea 024 del comentario largo de la causa, para forzar compresion.\r\nLinea 025 del comentario largo de la causa, para forzar compresion.\r\nLinea 026 del comentario largo de la causa, para forzar compresion.\r\nLinea 027 del comentario largo de la causa, para forzar compresion.\r\nLinea 028 del comentario largo de la causa, para forzar compresion.\r\nLinea 029 del comentario largo de la causa, para forzar compresion.\r\nLinea 030 del comentario largo de la causa, para forzar compresion.\r\nLinea 031 del comentario largo de la causa, para forzar compresion.\r\nLinea 032 del comentario largo de la causa, para forzar compresion.\r\nLinea 033 del comentario largo de la causa, para forzar compresion.\r\nLinea 034 del comentario largo de la causa, para forzar compresion.\r\nLinea 035 del comentario largo de la causa, para forzar compresion.\r\nLinea 036 del comentario largo de la causa, para forzar compresion.\r\nLinea 037 del comentario largo de la causa, para forzar compresion.\r\nLinea 038 del comentario largo de la causa, para forzar compresion.\r\nLinea 039 del comentario largo de la causa, para forzar compresion.\r\nLinea 040 del comentario largo de la causa, para forzar compresion.\r\nLinea 041 del comentario largo de la causa, para forzar compresion.\r\nLinea 042 del comentario largo de la causa, para forzar compresion.\r\nLinea 043 del comentario largo de la causa, para forzar compresion.\r\nLinea 044 del comentario largo de la causa, para forzar compresion.\r\nLinea 045 del comentario largo de la causa, para forzar compresion.\r\nLinea 046 del comentario largo de la causa, para forzar compresion.\r\nLinea 047 del comentario largo de la causa, para forzar compresion.\r\nLinea 048 del comentario largo de la causa, para forzar compresion.\r\nLinea 049 del comentario largo de la causa, para forzar compresion.\r\nLinea 050 del comentario largo de la causa, para forzar compresion.\r\nLinea 051 del comentario largo de la causa, para forzar compresion.\r\nLinea 052 del comentario largo de la causa, para forzar compresion.\r\nLinea 053 del comentario largo de la causa, para forzar compresion.\r\nLinea 054 del comentario largo de la causa, para forzar compresion.\r\nLinea 055 del comentario largo de la causa, para forzar compresion.\r\nLinea 056 del comentario largo de la causa, para forzar compresion.\r\nLinea 057 del comentario largo de la causa, para forzar compresion.\r\nLinea 058 del comentario largo de la causa, para forzar compresion.\r\nLinea 059 del comentario largo de la causa, para forzar compresion.\r\n",
+  "fileComments": {},
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "6bb002a318f0f0e27c424180c17e3634f115be9f78a9c6ee1c04d90748b97827"
+   },
+   {
+    "name": "acta.txt:oculto",
+    "kind": "AlternateStream",
+    "size": 780
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/foto.jpg",
+    "kind": "File",
+    "sha256": "e96760a87768717bcebcfd25ddc7d46b4dbc95a4b0014def080c08539f7d90d0"
+   },
+   {
+    "name": "datos/foto.jpg:Zone.Identifier",
+    "kind": "AlternateStream",
+    "size": 68
+   }
+  ],
+  "password": "Clave123"
+ },
+ "cmt_v20.rar": {
+  "command": "Rar.exe 2.90: rar a -r -y -os -z<comentario> cmt_v20.rar *, y rar cf acta.txt <texto>",
+  "comment": "Causa 1234/2026 - perito: Senal\r\n",
+  "fileComments": {
+   "acta.txt": "Comentario del archivo acta\n"
+  },
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "6bb002a318f0f0e27c424180c17e3634f115be9f78a9c6ee1c04d90748b97827"
+   },
+   {
+    "name": "acta.txt:oculto",
+    "kind": "AlternateStream",
+    "size": 780
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/foto.jpg",
+    "kind": "File",
+    "sha256": "e96760a87768717bcebcfd25ddc7d46b4dbc95a4b0014def080c08539f7d90d0"
+   },
+   {
+    "name": "datos/foto.jpg:Zone.Identifier",
+    "kind": "AlternateStream",
+    "size": 68
+   }
+  ]
+ },
+ "cmt_v20_largo.rar": {
+  "command": "Rar.exe 2.90: rar a -r -y -os -z<comentario> cmt_v20_largo.rar *, y rar cf datos/foto.jpg <texto>",
+  "comment": "Linea 000 del comentario largo de la causa, para forzar compresion.\r\nLinea 001 del comentario largo de la causa, para forzar compresion.\r\nLinea 002 del comentario largo de la causa, para forzar compresion.\r\nLinea 003 del comentario largo de la causa, para forzar compresion.\r\nLinea 004 del comentario largo de la causa, para forzar compresion.\r\nLinea 005 del comentario largo de la causa, para forzar compresion.\r\nLinea 006 del comentario largo de la causa, para forzar compresion.\r\nLinea 007 del comentario largo de la causa, para forzar compresion.\r\nLinea 008 del comentario largo de la causa, para forzar compresion.\r\nLinea 009 del comentario largo de la causa, para forzar compresion.\r\nLinea 010 del comentario largo de la causa, para forzar compresion.\r\nLinea 011 del comentario largo de la causa, para forzar compresion.\r\nLinea 012 del comentario largo de la causa, para forzar compresion.\r\nLinea 013 del comentario largo de la causa, para forzar compresion.\r\nLinea 014 del comentario largo de la causa, para forzar compresion.\r\nLinea 015 del comentario largo de la causa, para forzar compresion.\r\nLinea 016 del comentario largo de la causa, para forzar compresion.\r\nLinea 017 del comentario largo de la causa, para forzar compresion.\r\nLinea 018 del comentario largo de la causa, para forzar compresion.\r\nLinea 019 del comentario largo de la causa, para forzar compresion.\r\nLinea 020 del comentario largo de la causa, para forzar compresion.\r\nLinea 021 del comentario largo de la causa, para forzar compresion.\r\nLinea 022 del comentario largo de la causa, para forzar compresion.\r\nLinea 023 del comentario largo de la causa, para forzar compresion.\r\nLinea 024 del comentario largo de la causa, para forzar compresion.\r\nLinea 025 del comentario largo de la causa, para forzar compresion.\r\nLinea 026 del comentario largo de la causa, para forzar compresion.\r\nLinea 027 del comentario largo de la causa, para forzar compresion.\r\nLinea 028 del comentario largo de la causa, para forzar compresion.\r\nLinea 029 del comentario largo de la causa, para forzar compresion.\r\nLinea 030 del comentario largo de la causa, para forzar compresion.\r\nLinea 031 del comentario largo de la causa, para forzar compresion.\r\nLinea 032 del comentario largo de la causa, para forzar compresion.\r\nLinea 033 del comentario largo de la causa, para forzar compresion.\r\nLinea 034 del comentario largo de la causa, para forzar compresion.\r\nLinea 035 del comentario largo de la causa, para forzar compresion.\r\nLinea 036 del comentario largo de la causa, para forzar compresion.\r\nLinea 037 del comentario largo de la causa, para forzar compresion.\r\nLinea 038 del comentario largo de la causa, para forzar compresion.\r\nLinea 039 del comentario largo de la causa, para forzar compresion.\r\nLinea 040 del comentario largo de la causa, para forzar compresion.\r\nLinea 041 del comentario largo de la causa, para forzar compresion.\r\nLinea 042 del comentario largo de la causa, para forzar compresion.\r\nLinea 043 del comentario largo de la causa, para forzar compresion.\r\nLinea 044 del comentario largo de la causa, para forzar compresion.\r\nLinea 045 del comentario largo de la causa, para forzar compresion.\r\nLinea 046 del comentario largo de la causa, para forzar compresion.\r\nLinea 047 del comentario largo de la causa, para forzar compresion.\r\nLinea 048 del comentario largo de la causa, para forzar compresion.\r\nLinea 049 del comentario largo de la causa, para forzar compresion.\r\nLinea 050 del comentario largo de la causa, para forzar compresion.\r\nLinea 051 del comentario largo de la causa, para forzar compresion.\r\nLinea 052 del comentario largo de la causa, para forzar compresion.\r\nLinea 053 del comentario largo de la causa, para forzar compresion.\r\nLinea 054 del comentario largo de la causa, para forzar compresion.\r\nLinea 055 del comentario largo de la causa, para forzar compresion.\r\nLinea 056 del comentario largo de la causa, para forzar compresion.\r\nLinea 057 del comentario largo de la causa, para forzar compresion.\r\nLinea 058 del comentario largo de la causa, para forzar compresion.\r\nLinea 059 del comentario largo de la causa, para forzar compresion.\r\n",
+  "fileComments": {
+   "datos/foto.jpg": "Linea 000 del comentario largo de la causa, para forzar compresion.\r\nLinea 001 del comentario largo de la causa, para forzar compresion.\r\nLinea 002 del comentario largo de la causa, para forzar compresion.\r\nLinea 003 del comentario largo de la causa, para forzar compresion.\r\nLinea 004 del comentario largo de la causa, para forzar compresion.\r\nLinea 005 del comentario largo de la causa, para forzar compresion.\r\nLinea 006 del comentario largo de la causa, para forzar compresion.\r\nLinea 007 del comentario largo de la causa, para forzar compresion.\r\nLinea 008 del comentario largo de la causa, para forzar compresion.\r\nLinea 009 del comentario largo de la causa, para forzar compresion.\r\nLinea 010 del comentario largo de la causa, para forzar compresion.\r\nLinea 011 del comentario largo de la causa, para forzar compresion.\r\nLinea 012 del comentario largo de la causa, para forzar compresion.\r\nLinea 013 del comentario largo de la causa, para forzar compresion.\r\nLinea 014 del comentario largo de la causa, para forzar compresion.\r\nLinea 015 del comentario largo de la causa, para forzar compresion.\r\nLinea 016 del comentario largo de la causa, para forzar compresion.\r\nLinea 017 del comentario largo de la causa, para forzar compresion.\r\nLinea 018 del comentario largo de la causa, para forzar compresion.\r\nLinea 019 del comentario largo de la causa, para forzar compresion.\r\nLinea 020 del comentario largo de la causa, para forzar compresion.\r\nLinea 021 del comentario largo de la causa, para forzar compresion.\r\nLinea 022 del comentario largo de la causa, para forzar compresion.\r\nLinea 023 del comentario largo de la causa, para forzar compresion.\r\nLinea 024 del comentario largo de la causa, para forzar compresion.\r\nLinea 025 del comentario largo de la causa, para forzar compresion.\r\nLinea 026 del comentario largo de la causa, para forzar compresion.\r\nLinea 027 del comentario largo de la causa, para forzar compresion.\r\nLinea 028 del comentario largo de la causa, para forzar compresion.\r\nLinea 029 del comentario largo de la causa, para forzar compresion.\r\nLinea 030 del comentario largo de la causa, para forzar compresion.\r\nLinea 031 del comentario largo de la causa, para forzar compresion.\r\nLinea 032 del comentario largo de la causa, para forzar compresion.\r\nLinea 033 del comentario largo de la causa, para forzar compresion.\r\nLinea 034 del comentario largo de la causa, para forzar compresion.\r\nLinea 035 del comentario largo de la causa, para forzar compresion.\r\nLinea 036 del comentario largo de la causa, para forzar compresion.\r\nLinea 037 del comentario largo de la causa, para forzar compresion.\r\nLinea 038 del comentario largo de la causa, para forzar compresion.\r\nLinea 039 del comentario largo de la causa, para forzar compresion.\r\nLinea 040 del comentario largo de la causa, para forzar compresion.\r\nLinea 041 del comentario largo de la causa, para forzar compresion.\r\nLinea 042 del comentario largo de la causa, para forzar compresion.\r\nLinea 043 del comentario largo de la causa, para forzar compresion.\r\nLinea 044 del comentario largo de la causa, para forzar compresion.\r\nLinea 045 del comentario largo de la causa, para forzar compresion.\r\nLinea 046 del comentario largo de la causa, para forzar compresion.\r\nLinea 047 del comentario largo de la causa, para forzar compresion.\r\nLinea 048 del comentario largo de la causa, para forzar compresion.\r\nLinea 049 del comentario largo de la causa, para forzar compresion.\r\nLinea 050 del comentario largo de la causa, para forzar compresion.\r\nLinea 051 del comentario largo de la causa, para forzar compresion.\r\nLinea 052 del comentario largo de la causa, para forzar compresion.\r\nLinea 053 del comentario largo de la causa, para forzar compresion.\r\nLinea 054 del comentario largo de la causa, para forzar compresion.\r\nLinea 055 del comentario largo de la causa, para forzar compresion.\r\nLinea 056 del comentario largo de la causa, para forzar compresion.\r\nLinea 057 del comentario largo de la causa, para forzar compresion.\r\nLinea 058 del comentario largo de la causa, para forzar compresion.\r\nLinea 059 del comentario largo de la causa, para forzar compresion.\r\n"
+  },
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "6bb002a318f0f0e27c424180c17e3634f115be9f78a9c6ee1c04d90748b97827"
+   },
+   {
+    "name": "acta.txt:oculto",
+    "kind": "AlternateStream",
+    "size": 780
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/foto.jpg",
+    "kind": "File",
+    "sha256": "e96760a87768717bcebcfd25ddc7d46b4dbc95a4b0014def080c08539f7d90d0"
+   },
+   {
+    "name": "datos/foto.jpg:Zone.Identifier",
+    "kind": "AlternateStream",
+    "size": 68
+   }
+  ]
+ },
+ "cmt_v15.rar": {
+  "command": "RAR 1.55 (DOS): rar a -r -y -z<comentario> cmt_v15.rar",
+  "comment": "Causa 1234/2026 - perito: Senal\r\n",
+  "fileComments": {},
+  "entries": [
+   {
+    "name": "ACTA.TXT",
+    "kind": "File",
+    "sha256": "6bb002a318f0f0e27c424180c17e3634f115be9f78a9c6ee1c04d90748b97827"
+   },
+   {
+    "name": "DATOS",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/FOTO.JPG",
+    "kind": "File",
+    "sha256": "e96760a87768717bcebcfd25ddc7d46b4dbc95a4b0014def080c08539f7d90d0"
+   }
+  ]
+ },
+ "cmt_v15_largo.rar": {
+  "command": "RAR 1.55 (DOS): rar a -r -y -z<comentario> cmt_v15_largo.rar",
+  "comment": "Linea 000 del comentario largo de la causa, para forzar compresion.\r\nLinea 001 del comentario largo de la causa, para forzar compresion.\r\nLinea 002 del comentario largo de la causa, para forzar compresion.\r\nLinea 003 del comentario largo de la causa, para forzar compresion.\r\nLinea 004 del comentario largo de la causa, para forzar compresion.\r\nLinea 005 del comentario largo de la causa, para forzar compresion.\r\nLinea 006 del comentario largo de la causa, para forzar compresion.\r\nLinea 007 del comentario largo de la causa, para forzar compresion.\r\nLinea 008 del comentario largo de la causa, para forzar compresion.\r\nLinea 009 del comentario largo de la causa, para forzar compresion.\r\nLinea 010 del comentario largo de la causa, para forzar compresion.\r\nLinea 011 del comentario largo de la causa, para forzar compresion.\r\nLinea 012 del comentario largo de la causa, para forzar compresion.\r\nLinea 013 del comentario largo de la causa, para forzar compresion.\r\nLinea 014 del comentario largo de la causa, para forzar compresion.\r\nLinea 015 del comentario largo de la causa, para forzar compresion.\r\nLinea 016 del comentario largo de la causa, para forzar compresion.\r\nLinea 017 del comentario largo de la causa, para forzar compresion.\r\nLinea 018 del comentario largo de la causa, para forzar compresion.\r\nLinea 019 del comentario largo de la causa, para forzar compresion.\r\nLinea 020 del comentario largo de la causa, para forzar compresion.\r\nLinea 021 del comentario largo de la causa, para forzar compresion.\r\nLinea 022 del comentario largo de la causa, para forzar compresion.\r\nLinea 023 del comentario largo de la causa, para forzar compresion.\r\nLinea 024 del comentario largo de la causa, para forzar compresion.\r\nLinea 025 del comentario largo de la causa, para forzar compresion.\r\nLinea 026 del comentario largo de la causa, para forzar compresion.\r\nLinea 027 del comentario largo de la causa, para forzar compresion.\r\nLinea 028 del comentario largo de la causa, para forzar compresion.\r\nLinea 029 del comentario largo de la causa, para forzar compresion.\r\nLinea 030 del comentario largo de la causa, para forzar compresion.\r\nLinea 031 del comentario largo de la causa, para forzar compresion.\r\nLinea 032 del comentario largo de la causa, para forzar compresion.\r\nLinea 033 del comentario largo de la causa, para forzar compresion.\r\nLinea 034 del comentario largo de la causa, para forzar compresion.\r\nLinea 035 del comentario largo de la causa, para forzar compresion.\r\nLinea 036 del comentario largo de la causa, para forzar compresion.\r\nLinea 037 del comentario largo de la causa, para forzar compresion.\r\nLinea 038 del comentario largo de la causa, para forzar compresion.\r\nLinea 039 del comentario largo de la causa, para forzar compresion.\r\nLinea 040 del comentario largo de la causa, para forzar compresion.\r\nLinea 041 del comentario largo de la causa, para forzar compresion.\r\nLinea 042 del comentario largo de la causa, para forzar compresion.\r\nLinea 043 del comentario largo de la causa, para forzar compresion.\r\nLinea 044 del comentario largo de la causa, para forzar compresion.\r\nLinea 045 del comentario largo de la causa, para forzar compresion.\r\nLinea 046 del comentario largo de la causa, para forzar compresion.\r\nLinea 047 del comentario largo de la causa, para forzar compresion.\r\nLinea 048 del comentario largo de la causa, para forzar compresion.\r\nLinea 049 del comentario largo de la causa, para forzar compresion.\r\nLinea 050 del comentario largo de la causa, para forzar compresion.\r\nLinea 051 del comentario largo de la causa, para forzar compresion.\r\nLinea 052 del comentario largo de la causa, para forzar compresion.\r\nLinea 053 del comentario largo de la causa, para forzar compresion.\r\nLinea 054 del comentario largo de la causa, para forzar compresion.\r\nLinea 055 del comentario largo de la causa, para forzar compresion.\r\nLinea 056 del comentario largo de la causa, para forzar compresion.\r\nLinea 057 del comentario largo de la causa, para forzar compresion.\r\nLinea 058 del comentario largo de la causa, para forzar compresion.\r\nLinea 059 del comentario largo de la causa, para forzar compresion.\r\n",
+  "fileComments": {},
+  "entries": [
+   {
+    "name": "ACTA.TXT",
+    "kind": "File",
+    "sha256": "6bb002a318f0f0e27c424180c17e3634f115be9f78a9c6ee1c04d90748b97827"
+   },
+   {
+    "name": "DATOS",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/FOTO.JPG",
+    "kind": "File",
+    "sha256": "e96760a87768717bcebcfd25ddc7d46b4dbc95a4b0014def080c08539f7d90d0"
+   }
+  ]
+ }
+}

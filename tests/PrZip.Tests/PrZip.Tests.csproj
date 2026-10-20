@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsPackable>false</IsPackable>
+    <NoWarn>$(NoWarn);CA1707</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.4" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+    <PackageReference Include="xunit" Version="2.9.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\PrZip\PrZip.csproj" />
+    <ProjectReference Include="..\..\src\PrZip.Primitives\PrZip.Primitives.csproj" />
+    <ProjectReference Include="..\..\src\PrZip.Codecs\PrZip.Codecs.csproj" />
+    <ProjectReference Include="..\..\src\PrZip.Container\PrZip.Container.csproj" />
+    <ProjectReference Include="..\..\src\PrZip.Rar\PrZip.Rar.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Formats\Rar\*.rar;Formats\Rar\*.r0?;Formats\Rar\*.exe;Formats\Rar\manifest.json;Formats\Rar\comentarios.json;Formats\Rar\libarchive\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <!-- randomised.txt.bz2: escrito con SharpZipLib 1.4.2 (nivel 9) sobre "declaración del testigo; " x 2000;
+         su bloque viene marcado "randomised" y 7z.exe 24.08 lo descomprime al texto original. -->
+    <None Update="Formats\BZip2\*.bz2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Formats\make_fixtures.py">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

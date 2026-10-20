@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\PrZip.Primitives\PrZip.Primitives.csproj" />
+    <ProjectReference Include="..\PrZip.Codecs\PrZip.Codecs.csproj" />
+    <ProjectReference Include="..\PrZip.Container\PrZip.Container.csproj" />
+    <!-- RAR no se referencia: PrZip.Rar (licencia de unrar) depende del núcleo y se registra con
+         RarSupport.Register(). El núcleo queda libre de código con otra licencia. -->
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- API pública mínima: lo de adentro es interno y solo lo ven los ensamblados del motor y sus tests. -->
+  <ItemGroup>
+    <InternalsVisibleTo Include="PrZip.Tests" />
+  </ItemGroup>
+
+</Project>

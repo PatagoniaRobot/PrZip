@@ -1,0 +1,3 @@
+# El motor tiene sus propias reglas (Directory.Build.props): no hereda las de un repositorio que lo contenga
+# como submódulo, por ejemplo ForZip.
+root = true

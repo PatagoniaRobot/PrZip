@@ -1,0 +1,35 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <AnalysisLevel>latest-recommended</AnalysisLevel>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <NoWarn>$(NoWarn);CS1668</NoWarn>
+    <Version>0.1.0-alpha</Version>
+    <Authors>Claudio Andino</Authors>
+    <Company>Patagonia Robot</Company>
+    <Product>PrZip — Patagonia Robot Archive Engine</Product>
+    <Copyright>Copyright (c) 2026 Claudio Andino</Copyright>
+    <!-- Apache 2.0 para todo salvo PrZip.Rar, que declara la licencia de unrar en su propio csproj. -->
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <!-- Reglas para proyectos de runtime (/src/) -->
+  <PropertyGroup Condition="$(MSBuildProjectDirectory.Contains('\src\')) or $(MSBuildProjectDirectory.Contains('/src/'))">
+    <IsAotCompatible>true</IsAotCompatible>
+    <EnableTrimAnalyzer>true</EnableTrimAnalyzer>
+    <EnableSingleFileAnalyzer>true</EnableSingleFileAnalyzer>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <!-- Gate de CI en compilación: Prohibir terminantemente PackageReference en /src/ -->
+  <Target Name="EnforceZeroPackageReferencesInRuntime"
+          BeforeTargets="BeforeBuild"
+          Condition="$(MSBuildProjectDirectory.Contains('\src\')) or $(MSBuildProjectDirectory.Contains('/src/'))">
+    <Error Condition="'@(PackageReference)' != ''"
+           Text="VIOLACIÓN DE ARQUITECTURA: El proyecto '$(MSBuildProjectName)' se encuentra en /src/ y no puede tener dependencias externas (PackageReference). Referencias encontradas: @(PackageReference)" />
+  </Target>
+</Project>

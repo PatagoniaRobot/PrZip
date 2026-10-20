@@ -1,0 +1,2534 @@
+{
+ "m0_v5.rar": {
+  "command": "rar a -r -idq -y -ma5 -m0 m0_v5.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m0_v5_blake2.rar": {
+  "command": "rar a -r -idq -y -ma5 -m0 -htb m0_v5_blake2.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m0_v4.rar": {
+  "command": "rar a -r -idq -y -ma4 -m0 m0_v4.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m1_v5.rar": {
+  "command": "rar a -r -idq -y -ma5 -m1 m1_v5.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v5.rar": {
+  "command": "rar a -r -idq -y -ma5 -m3 m3_v5.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m5_v5.rar": {
+  "command": "rar a -r -idq -y -ma5 -m5 m5_v5.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m5_v5_solid.rar": {
+  "command": "rar a -r -idq -y -ma5 -m5 -s m5_v5_solid.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m5_v5_md128k.rar": {
+  "command": "rar a -r -idq -y -ma5 -m5 -md128k m5_v5_md128k.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m5_v5_solid_md128k_blake2.rar": {
+  "command": "rar a -r -idq -y -ma5 -m5 -s -md128k -htb m5_v5_solid_md128k_blake2.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m1_v4.rar": {
+  "command": "rar a -r -idq -y -ma4 -m1 m1_v4.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v4.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 m3_v4.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m5_v4_solid.rar": {
+  "command": "rar a -r -idq -y -ma4 -m5 -s m5_v4_solid.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v4_md64k.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 -md64k m3_v4_md64k.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v4_ppmd.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 -mct+ m3_v4_ppmd.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m5_v4_solid_ppmd.rar": {
+  "command": "rar a -r -idq -y -ma4 -m5 -s -mct+ m5_v4_solid_ppmd.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v4_audio.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 -mca+ m3_v4_audio.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v4_rgb.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 -mcc+ m3_v4_rgb.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v4_x86.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 -mce+ m3_v4_x86.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v4_delta.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 -mc4d+ m3_v4_delta.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v20.rar": {
+  "command": "rar a -r -inul -y -m3 m3_v20.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   }
+  ]
+ },
+ "m5_v20_solid.rar": {
+  "command": "rar a -r -inul -y -m5 -s m5_v20_solid.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   }
+  ]
+ },
+ "m3_v20_md64.rar": {
+  "command": "rar a -r -inul -y -m3 -md64 m3_v20_md64.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   }
+  ]
+ },
+ "m3_v20_mmf.rar": {
+  "command": "rar a -r -inul -y -m3 -mmf m3_v20_mmf.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   }
+  ]
+ },
+ "m3_v5_pass.rar": {
+  "command": "rar a -r -idq -y -ma5 -m3 -pC<contraseña> m3_v5_pass.rar *",
+  "password": "Clave123",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v5_hpass.rar": {
+  "command": "rar a -r -idq -y -ma5 -m3 -hp<contraseña> m3_v5_hpass.rar *",
+  "password": "Clave123",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m5_v5_solid_hpass_acentos.rar": {
+  "command": "rar a -r -idq -y -ma5 -m5 -s -hp<contraseña> m5_v5_solid_hpass_acentos.rar *",
+  "password": "ñandú-Señal",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m0_v5_pass_blake2.rar": {
+  "command": "rar a -r -idq -y -ma5 -m0 -htb -pC<contraseña> m0_v5_pass_blake2.rar *",
+  "password": "Clave123",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v4_pass.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 -pC<contraseña> m3_v4_pass.rar *",
+  "password": "Clave123",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v4_hpass_larga.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 -hp<contraseña> m3_v4_hpass_larga.rar *",
+  "password": "una contraseña larga de más de treinta caracteres",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m5_v4_solid_pass_acentos.rar": {
+  "command": "rar a -r -idq -y -ma4 -m5 -s -mct+ -pñ<contraseña> m5_v4_solid_pass_acentos.rar *",
+  "password": "ñandú-Señal",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v20_pass.rar": {
+  "command": "rar a -r -inul -y -m3 -pC<contraseña> m3_v20_pass.rar *",
+  "password": "Clave123",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   }
+  ]
+ },
+ "vol_v5.part01.rar": {
+  "command": "rar a -r -idq -y -ma5 -m3 -v40k vol_v5.rar *",
+  "volumes": [
+   "vol_v5.part01.rar",
+   "vol_v5.part02.rar",
+   "vol_v5.part03.rar"
+  ],
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "vol_v5_solid.part01.rar": {
+  "command": "rar a -r -idq -y -ma5 -m5 -s -v40k vol_v5_solid.rar *",
+  "volumes": [
+   "vol_v5_solid.part01.rar",
+   "vol_v5_solid.part02.rar",
+   "vol_v5_solid.part03.rar"
+  ],
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "vol_v5_hpass.part01.rar": {
+  "command": "rar a -r -idq -y -ma5 -m3 -v40k -hp<contraseña> vol_v5_hpass.rar *",
+  "volumes": [
+   "vol_v5_hpass.part01.rar",
+   "vol_v5_hpass.part02.rar",
+   "vol_v5_hpass.part03.rar"
+  ],
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ],
+  "password": "Clave123"
+ },
+ "vol_v4.part01.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 -v40k vol_v4.rar *",
+  "volumes": [
+   "vol_v4.part01.rar",
+   "vol_v4.part02.rar",
+   "vol_v4.part03.rar",
+   "vol_v4.part04.rar"
+  ],
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "vol_v4_viejo.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 -v40k -vn vol_v4_viejo.rar *",
+  "volumes": [
+   "vol_v4_viejo.r00",
+   "vol_v4_viejo.r01",
+   "vol_v4_viejo.r02",
+   "vol_v4_viejo.rar"
+  ],
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "vol_v4_pass.part01.rar": {
+  "command": "rar a -r -idq -y -ma4 -m3 -v40k -p<contraseña> vol_v4_pass.rar *",
+  "volumes": [
+   "vol_v4_pass.part01.rar",
+   "vol_v4_pass.part02.rar",
+   "vol_v4_pass.part03.rar",
+   "vol_v4_pass.part04.rar"
+  ],
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/audio.raw",
+    "kind": "File",
+    "sha256": "7d8aad6a85d7c4b694bdf978702266925d5d6a4c43438d5a6910cf7335a1a6c1"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/largo.txt",
+    "kind": "File",
+    "sha256": "6b0577ee02334eecd786e87f95cdb69b4402a999b06125c797c929a6ba0d93f9"
+   },
+   {
+    "name": "datos/programa.exe",
+    "kind": "File",
+    "sha256": "db7d7db8723978c29e402cf62982fecf65b730f374bb3950e0a002c24f6be7df"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ],
+  "password": "Clave123"
+ },
+ "m0_v5_sfx.exe": {
+  "command": "prefijo MZ de 70002 bytes + m0_v5.rar",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "8adcaae939e02bec62fdc87429639a4505e86bebcdf62ad119c501c03b451954"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/binario.bin",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "datos/sub",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/sub/ceros.bin",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "datos/vacio.txt",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "vacía",
+    "kind": "Directory"
+   },
+   {
+    "name": "ñandú 漢字.txt",
+    "kind": "File",
+    "sha256": "5d9fe18167805ad2caf8b63abdc3abee19eedff438a53d9f25daf3681cb1e190"
+   }
+  ]
+ },
+ "m3_v14.rar": {
+  "command": "RAR 1.39 (DOS): rar a -r -y m3_v14.rar",
+  "entries": [
+   {
+    "name": "ACTA.TXT",
+    "kind": "File",
+    "sha256": "a4cb451985bba125a0b984e299043b4da0f99131c44641abb7ac621ce7591d17"
+   },
+   {
+    "name": "DATOS",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/BINARIO.BIN",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "DATOS/LARGO.TXT",
+    "kind": "File",
+    "sha256": "89f8153a51b55118e3430d1d1643a60fed97ab2813a2d4ecebe9b9494e0326f5"
+   },
+   {
+    "name": "DATOS/PROGRAMA.EXE",
+    "kind": "File",
+    "sha256": "a471bec8012cfc6edddfe8e9cd89b5d2685aa80c7769f8e4960302c10778fca0"
+   },
+   {
+    "name": "DATOS/SUB",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/SUB/CEROS.BIN",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "DATOS/VACIO.TXT",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "VACIA",
+    "kind": "Directory"
+   }
+  ]
+ },
+ "m3_v14_pass.rar": {
+  "command": "RAR 1.39 (DOS): rar a -r -y -p<contraseña> m3_v14_pass.rar",
+  "entries": [
+   {
+    "name": "ACTA.TXT",
+    "kind": "File",
+    "sha256": "a4cb451985bba125a0b984e299043b4da0f99131c44641abb7ac621ce7591d17"
+   },
+   {
+    "name": "DATOS",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/BINARIO.BIN",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "DATOS/LARGO.TXT",
+    "kind": "File",
+    "sha256": "89f8153a51b55118e3430d1d1643a60fed97ab2813a2d4ecebe9b9494e0326f5"
+   },
+   {
+    "name": "DATOS/PROGRAMA.EXE",
+    "kind": "File",
+    "sha256": "a471bec8012cfc6edddfe8e9cd89b5d2685aa80c7769f8e4960302c10778fca0"
+   },
+   {
+    "name": "DATOS/SUB",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/SUB/CEROS.BIN",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "DATOS/VACIO.TXT",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "VACIA",
+    "kind": "Directory"
+   }
+  ],
+  "password": "Clave123"
+ },
+ "m1_v15.rar": {
+  "command": "RAR 1.55 (DOS): rar a -r -y -m1 m1_v15.rar",
+  "entries": [
+   {
+    "name": "ACTA.TXT",
+    "kind": "File",
+    "sha256": "a4cb451985bba125a0b984e299043b4da0f99131c44641abb7ac621ce7591d17"
+   },
+   {
+    "name": "DATOS",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/BINARIO.BIN",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "DATOS/LARGO.TXT",
+    "kind": "File",
+    "sha256": "89f8153a51b55118e3430d1d1643a60fed97ab2813a2d4ecebe9b9494e0326f5"
+   },
+   {
+    "name": "DATOS/PROGRAMA.EXE",
+    "kind": "File",
+    "sha256": "a471bec8012cfc6edddfe8e9cd89b5d2685aa80c7769f8e4960302c10778fca0"
+   },
+   {
+    "name": "DATOS/SUB",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/SUB/CEROS.BIN",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "DATOS/VACIO.TXT",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "VACIA",
+    "kind": "Directory"
+   }
+  ]
+ },
+ "m3_v15.rar": {
+  "command": "RAR 1.55 (DOS): rar a -r -y -m3 m3_v15.rar",
+  "entries": [
+   {
+    "name": "ACTA.TXT",
+    "kind": "File",
+    "sha256": "a4cb451985bba125a0b984e299043b4da0f99131c44641abb7ac621ce7591d17"
+   },
+   {
+    "name": "DATOS",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/BINARIO.BIN",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "DATOS/LARGO.TXT",
+    "kind": "File",
+    "sha256": "89f8153a51b55118e3430d1d1643a60fed97ab2813a2d4ecebe9b9494e0326f5"
+   },
+   {
+    "name": "DATOS/PROGRAMA.EXE",
+    "kind": "File",
+    "sha256": "a471bec8012cfc6edddfe8e9cd89b5d2685aa80c7769f8e4960302c10778fca0"
+   },
+   {
+    "name": "DATOS/SUB",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/SUB/CEROS.BIN",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "DATOS/VACIO.TXT",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "VACIA",
+    "kind": "Directory"
+   }
+  ]
+ },
+ "m5_v15_solid.rar": {
+  "command": "RAR 1.55 (DOS): rar a -r -y -m5 -s m5_v15_solid.rar",
+  "entries": [
+   {
+    "name": "ACTA.TXT",
+    "kind": "File",
+    "sha256": "a4cb451985bba125a0b984e299043b4da0f99131c44641abb7ac621ce7591d17"
+   },
+   {
+    "name": "DATOS",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/BINARIO.BIN",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "DATOS/LARGO.TXT",
+    "kind": "File",
+    "sha256": "89f8153a51b55118e3430d1d1643a60fed97ab2813a2d4ecebe9b9494e0326f5"
+   },
+   {
+    "name": "DATOS/PROGRAMA.EXE",
+    "kind": "File",
+    "sha256": "a471bec8012cfc6edddfe8e9cd89b5d2685aa80c7769f8e4960302c10778fca0"
+   },
+   {
+    "name": "DATOS/SUB",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/SUB/CEROS.BIN",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "DATOS/VACIO.TXT",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "VACIA",
+    "kind": "Directory"
+   }
+  ]
+ },
+ "m3_v15_pass.rar": {
+  "command": "RAR 1.55 (DOS): rar a -r -y -m3 -p<contraseña> m3_v15_pass.rar",
+  "entries": [
+   {
+    "name": "ACTA.TXT",
+    "kind": "File",
+    "sha256": "a4cb451985bba125a0b984e299043b4da0f99131c44641abb7ac621ce7591d17"
+   },
+   {
+    "name": "DATOS",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/BINARIO.BIN",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "DATOS/LARGO.TXT",
+    "kind": "File",
+    "sha256": "89f8153a51b55118e3430d1d1643a60fed97ab2813a2d4ecebe9b9494e0326f5"
+   },
+   {
+    "name": "DATOS/PROGRAMA.EXE",
+    "kind": "File",
+    "sha256": "a471bec8012cfc6edddfe8e9cd89b5d2685aa80c7769f8e4960302c10778fca0"
+   },
+   {
+    "name": "DATOS/SUB",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/SUB/CEROS.BIN",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "DATOS/VACIO.TXT",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "VACIA",
+    "kind": "Directory"
+   }
+  ],
+  "password": "Clave123"
+ },
+ "m5_v15_solid_pass.rar": {
+  "command": "RAR 1.55 (DOS): rar a -r -y -m5 -s -p<contraseña> m5_v15_solid_pass.rar",
+  "entries": [
+   {
+    "name": "ACTA.TXT",
+    "kind": "File",
+    "sha256": "a4cb451985bba125a0b984e299043b4da0f99131c44641abb7ac621ce7591d17"
+   },
+   {
+    "name": "DATOS",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/BINARIO.BIN",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "DATOS/LARGO.TXT",
+    "kind": "File",
+    "sha256": "89f8153a51b55118e3430d1d1643a60fed97ab2813a2d4ecebe9b9494e0326f5"
+   },
+   {
+    "name": "DATOS/PROGRAMA.EXE",
+    "kind": "File",
+    "sha256": "a471bec8012cfc6edddfe8e9cd89b5d2685aa80c7769f8e4960302c10778fca0"
+   },
+   {
+    "name": "DATOS/SUB",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/SUB/CEROS.BIN",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "DATOS/VACIO.TXT",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "VACIA",
+    "kind": "Directory"
+   }
+  ],
+  "password": "Clave123"
+ },
+ "vol_v15.rar": {
+  "command": "RAR 1.55 (DOS): rar a -r -y -m3 -v20k vol_v15.rar",
+  "volumes": [
+   "vol_v15.r00",
+   "vol_v15.r01",
+   "vol_v15.r02",
+   "vol_v15.rar"
+  ],
+  "entries": [
+   {
+    "name": "ACTA.TXT",
+    "kind": "File",
+    "sha256": "a4cb451985bba125a0b984e299043b4da0f99131c44641abb7ac621ce7591d17"
+   },
+   {
+    "name": "DATOS",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/BINARIO.BIN",
+    "kind": "File",
+    "sha256": "0259a04d68a6273d2929003db507ce2909737a6b4ed94322b41b06c9cb783329"
+   },
+   {
+    "name": "DATOS/LARGO.TXT",
+    "kind": "File",
+    "sha256": "89f8153a51b55118e3430d1d1643a60fed97ab2813a2d4ecebe9b9494e0326f5"
+   },
+   {
+    "name": "DATOS/PROGRAMA.EXE",
+    "kind": "File",
+    "sha256": "a471bec8012cfc6edddfe8e9cd89b5d2685aa80c7769f8e4960302c10778fca0"
+   },
+   {
+    "name": "DATOS/SUB",
+    "kind": "Directory"
+   },
+   {
+    "name": "DATOS/SUB/CEROS.BIN",
+    "kind": "File",
+    "sha256": "3755862355e2e7d0e0dc0f6b98a89978c0710890982862dd17975829e35be6b4"
+   },
+   {
+    "name": "DATOS/VACIO.TXT",
+    "kind": "File",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "name": "VACIA",
+    "kind": "Directory"
+   }
+  ]
+ },
+ "m3_v5_arm.rar": {
+  "command": "Rar.exe 5.50: rar a -r -idq -y -ma5 -m3 m3_v5_arm.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "a4cb451985bba125a0b984e299043b4da0f99131c44641abb7ac621ce7591d17"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/arm.bin",
+    "kind": "File",
+    "sha256": "e2c90a5369355c8daf6b637ad654b9837c4a9c9c5705b8fa66e9ec1c9a09c939"
+   }
+  ]
+ },
+ "m3_v4_ia64.rar": {
+  "command": "Rar.exe 3.93: rar a -r -idq -y -m3 -mci+ m3_v4_ia64.rar *",
+  "entries": [
+   {
+    "name": "acta.txt",
+    "kind": "File",
+    "sha256": "a4cb451985bba125a0b984e299043b4da0f99131c44641abb7ac621ce7591d17"
+   },
+   {
+    "name": "datos",
+    "kind": "Directory"
+   },
+   {
+    "name": "datos/ia64.bin",
+    "kind": "File",
+    "sha256": "a6b92b1ff649909cfdbbab9e72385a20f4c5faea18c3039b97e16bb938ab88b7"
+   }
+  ]
+ }
+}

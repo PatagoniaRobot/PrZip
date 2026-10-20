@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Lector RAR: port a C# del descompresor de unrar 7.3.1 (RARLAB, Alexander Roshal).
+    NO es Apache ni libre en sentido OSI: rige la licencia de unrar (LICENSE-UNRAR.txt), que permite usar
+    este código para manejar archivos RAR en cualquier software, pero no para crear un compresor RAR.
+    Todo código derivado de unrar vive en este proyecto y en ningún otro (ver docs/PROVENANCE.md).
+    Depende del núcleo y no al revés: RarSupport.Register() lo suma a ArchiveReader. RarSupport.cs y
+    RarArchiveReader.cs son código propio (el adaptador), no derivado de unrar.
+  -->
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PrZip\PrZip.csproj" />
+    <ProjectReference Include="..\PrZip.Primitives\PrZip.Primitives.csproj" />
+    <!-- PPMd de RAR 3.x: modelo y decodificador de dominio público (LZMA SDK) en los códecs propios. -->
+    <ProjectReference Include="..\PrZip.Codecs\PrZip.Codecs.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="PrZip.Tests" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE-UNRAR.txt" CopyToOutputDirectory="PreserveNewest" Pack="true" PackagePath="" />
+  </ItemGroup>
+
+  <!-- Este ensamblado no es Apache: el paquete declara la licencia de unrar en lugar de la del proyecto. -->
+  <PropertyGroup>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageLicenseFile>LICENSE-UNRAR.txt</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+  </ItemGroup>
+
+</Project>

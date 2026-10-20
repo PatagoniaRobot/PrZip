@@ -1,0 +1,37 @@
+// =============================================================================
+//  PrZip — Patagonia Robot Archive Engine
+//  Lee y escribe 7z; abre RAR, TAR, GZip, BZip2, XZ e ISO 9660.
+// =============================================================================
+//
+//  Copyright (c) 2026 Claudio Andino
+//  Developed under the Patagonia Robot initiative
+//
+//  Licensed under the Apache License, Version 2.0 (the "License");
+//  you may not use this file except in compliance with the License.
+//  You may obtain a copy of the License at:
+//
+//      http://www.apache.org/licenses/LICENSE-2.0
+//
+//  Unless required by applicable law or agreed to in writing, software
+//  distributed under the License is distributed on an "AS IS" BASIS,
+//  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//  See the License for the specific language governing permissions and
+//  limitations under the License.
+//
+// =============================================================================
+
+namespace PrZip.Codecs.Deflate;
+
+/// <summary>
+/// Decodificador de los métodos Deflate (04 01 08) y Deflate64 (04 01 09) de 7z, sobre el
+/// <see cref="Inflater"/> propio. No usa DeflateStream de la BCL: Deflate64 no existe ahí, y así los dos
+/// métodos comparten implementación y errores (CorruptArchiveException ante datos inválidos).
+/// </summary>
+internal static class DeflateDecoder
+{
+    public static void Decode(Stream inStream, Stream outStream, long unpackSize) =>
+        Inflater.Decode(inStream, outStream, unpackSize, deflate64: false);
+
+    public static void DecodeDeflate64(Stream inStream, Stream outStream, long unpackSize) =>
+        Inflater.Decode(inStream, outStream, unpackSize, deflate64: true);
+}

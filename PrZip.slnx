@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PrZip.Codecs/PrZip.Codecs.csproj" />
+    <Project Path="src/PrZip.Container/PrZip.Container.csproj" />
+    <Project Path="src/PrZip.Primitives/PrZip.Primitives.csproj" />
+    <Project Path="src/PrZip.Rar/PrZip.Rar.csproj" />
+    <Project Path="src/PrZip/PrZip.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PrZip.Benchmarks/PrZip.Benchmarks.csproj" />
+    <Project Path="tests/PrZip.Tests/PrZip.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/PrZip.Cli/PrZip.Cli.csproj" />
+    <Project Path="tools/PrZip.Fuzz/PrZip.Fuzz.csproj" />
+  </Folder>
+</Solution>

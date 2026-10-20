@@ -1,0 +1,40 @@
+PrZip — Patagonia Robot Archive Engine
+Copyright (c) 2026 Claudio Andino
+Developed under the Patagonia Robot initiative
+
+Licensed under the Apache License, Version 2.0 (see LICENSE), except the
+PrZip.Rar component, which is distributed under the UnRAR license.
+
+PrZip is an independent project, not affiliated with 7-Zip or with Igor Pavlov.
+It reads and writes the 7z format and reads RAR, TAR, GZip, BZip2, XZ and ISO 9660.
+Whatever the public 7z format documentation does not cover was established by
+black-box tests against the official 7z.exe, never from the 7-Zip source code
+(see docs/PROVENANCE.md and docs/FORMAT.md).
+
+Third-party code included in this product:
+
+* LZMA SDK, C/ folder, by Igor Pavlov — public domain.
+  Ported to C#: LZMA and LZMA2 coders, match finders, range coder, PPMd var.H,
+  and the BCJ, BCJ2, branch and Delta filters.
+  https://www.7-zip.org/sdk.html
+
+* UnRAR 7.3.1, Copyright (c) Alexander L. Roshal (RARLAB) — UnRAR license.
+  Ported to C# in the PrZip.Rar component only, which reads RAR archives and
+  does not create them. Full license: src/PrZip.Rar/LICENSE-UNRAR.txt.
+  Paragraph 2 of that license:
+
+    UnRAR source code may be used in any software to handle RAR archives
+    without limitations free of charge, but cannot be used to develop RAR
+    (WinRAR) compatible archiver and to re-create RAR compression algorithm,
+    which is proprietary. Distribution of modified UnRAR source code in
+    separate form or as a part of other software is permitted, provided that
+    full text of this paragraph, starting from "UnRAR source code" words, is
+    included in license, or in documentation if license is not available, and
+    in source code comments of resulting package.
+
+  PrZip.Rar also includes BLAKE2sp as adapted by UnRAR from the BLAKE2
+  reference code by Samuel Neves (CC0).
+
+* bzip2/libbzip2 1.0.8, Copyright (C) 1996-2019 Julian R Seward — bzip2 license
+  (BSD-style). Only its block randomisation table (BZ2_rNums), translated to C#
+  in src/PrZip.Codecs/BZip2/BZip2RandomTable.cs, which carries the full notice.
